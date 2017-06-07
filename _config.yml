@@ -1,0 +1,37 @@
+name: Yeepi
+analytics: {}
+github: true
+author:
+  name: peter
+  url: www.lighter.my
+  email: peter@lighter.my
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.5573270327877253
+color:
+  lightness: 0.5232770907513977
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.1684505213444239
+  brandStrength: 0.04998522090026765
+  rhythmicContrast: 0.351787659887175
+content_rating:
+  adult: false
+typography_spectrum: 0.4728469736874104
+opengraph: {}
+title: lighter malaysia
